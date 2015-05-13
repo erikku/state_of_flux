@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<state_of_flux>
+ <io_signal name="clock" direction="input" size="1" type="wire"/>
+ <io_signal name="reset" direction="input" size="1" type="wire"/>
+ <state name="STATE_IDLE"><![CDATA[// Place your code here.]]></state>
+ <clock signal="clock"/>
+ <reset type="async" signal="reset"/>
+ <options default_nettype="1" indent_type="spaces" language="verilog" indent_size="2" ascii_states="1"/>
+ <datapath><![CDATA[]]></datapath>
+ <header><![CDATA[//////////////////////////////////////////////////////////////////////////////////
+// Company:        
+// Engineer:       
+// 
+// Create Date:    
+// Design Name:    
+// Module Name:    
+// Project Name:   
+// Target Devices: 
+// Tool versions:  
+// Description:    
+//
+// Dependencies:   
+//
+// Revision:       
+// Additional Comments:
+//
+//////////////////////////////////////////////////////////////////////////////////]]></header>
+ <tasks><![CDATA[]]></tasks>
+ <reset_state state="STATE_IDLE"/>
+</state_of_flux>

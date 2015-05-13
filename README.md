@@ -1,2 +1,2 @@
-# state_of_flux
+# State of Flux
 HDL FSM Made Easy
